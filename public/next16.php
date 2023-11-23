@@ -35,7 +35,7 @@
         <section class="flex flex-col justify-center ">
           <section  class="flex  justify-center w-full mt-10 mx-auto">
               <div class="block">
-                  <img  src="./image/16.jpg" alt="">
+                  <img style="width:230px; padding-top:40px; "src="./image/16.jpg" alt="">
               </div>
               <div class="block mt-10">
                   <h2 class="text-rose-900 text-xl font-normal font-serif mt-10">OLIVE UNDERTONE</h2>
