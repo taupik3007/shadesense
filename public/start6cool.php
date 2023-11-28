@@ -31,21 +31,20 @@
       </div>
     </div>
   </nav>
-<!-- form login -->
+<!-- section 1 -->
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class=" block ">
-    <img style="width: 340px; height: auto;" class="mt-5" src="./image/5.png" alt="">
+    <img style="width: 340px; height: auto;" class="mt-5" src="./image/6.png" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">MAKE YOUR DAY CONFIDENT WITH 
-      YOUR PERFECT COLOR</p>
+    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">LETS DISCOVER YOUR PERSONAL COLOR</p>
 </div>
 </section>
-<section class="mt-2 flex justify-center w-full">
-  <div class="relative block mt-5">
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">NEXT</button>
+<section class="mt-5 flex justify-center w-full">
+  <div class=" block">
+    <a href="next7cool.php"><button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">START</button></a>
   </div>
 </section>
 

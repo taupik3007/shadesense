@@ -54,17 +54,18 @@
 </section>
 <section class="grid w-full mt-10 mx-auto justify-items-center" >
     <div class="grid grid-cols-2 gap-16 ">
-        <div class="  w-56">
-            <img  class="" src="./image/blue.png" alt="">
-          </div>
           <div class=" w-56 ">
-            <img  class="" src="./image/maroon.png" alt="">
+            <a href="back20redcool.php"><img  class="" src="./image/maroon.png" alt=""></a>
           </div>
           <div class="  w-56">
-             <img  class="" src="./image/rose.png" alt="">
+            <a href="back23greencool.php"> <img  class="" src="./image/green.png" alt=""></a>
           </div>
           <div class="  w-56">
-             <img  class="" src="./image/green.png" alt="">
+            <a href="back24purplecool.php"> <img  class="" src="./image/rose.png" alt=""></a>
+          </div>
+          <div class="  w-56">
+          <a href="back25bluecool.php">
+            <img  class="" src="./image/blue.png" alt=""></a>
           </div>
     </div>
         

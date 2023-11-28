@@ -532,7 +532,6 @@ video {
   --tw-backdrop-opacity:  ;
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
-<<<<<<< HEAD
 }
 
 .sr-only {
@@ -701,10 +700,6 @@ video {
   width: 100%;
 }
 
-.w-2\/5 {
-  width: 40%;
-}
-
 .max-w-7xl {
   max-width: 80rem;
 }
@@ -801,10 +796,6 @@ video {
 
 .p-5 {
   padding: 1.25rem;
-}
-
-.p-64 {
-  padding: 16rem;
 }
 
 .px-2 {
@@ -1003,6 +994,4 @@ video {
     padding-left: 2rem;
     padding-right: 2rem;
   }
-=======
->>>>>>> 3d4cd696a7188ed9aa84a047f556a751a637bc72
 }

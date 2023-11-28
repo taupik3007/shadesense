@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" type="image/png" href="./image/s.png">
     <title>Shadesense</title>
 </head>
 <body>
@@ -35,11 +36,7 @@
         <section class="flex flex-col justify-center ">
           <section style="width: 650px;" class="flex  justify-center w-full mt-10 mx-auto">
               <div class="block">
-<<<<<<< HEAD:public/next16.html
                   <img class="" src="./image/16.png" alt="">
-=======
-                  <img style="width:230px; padding-top:40px; "src="./image/16.jpg" alt="">
->>>>>>> 3d4cd696a7188ed9aa84a047f556a751a637bc72:public/next16.php
               </div>
               <div style="padding-top: 40px;" class="block">
                   <h2 class="text-rose-900 text-xl font-normal font-serif mt-10">OLIVE UNDERTONE</h2>
