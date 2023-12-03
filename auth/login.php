@@ -44,7 +44,7 @@
         </section>
         <!-- form login -->
         <section class="mt-5 flex justify-center w-full">
-          <form action="" class="block w-72 h-auto">
+          <form action="proses_login.php" method="POST" class="block w-72 h-auto">
             <label class="relative block ">
               <span class="sr-only">Email</span>
               <span class="absolute inset-y-0 left-0 flex items-center pl-2">
