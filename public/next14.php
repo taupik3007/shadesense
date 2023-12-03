@@ -6,8 +6,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <title>Shadesense</title>
 </head>
-<body>
-
+<body >
   <nav class="bg-rose-100 ">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
@@ -34,13 +33,13 @@
   </nav>
 <!-- section 1-->
         <section class="flex flex-col justify-center ">
-          <section  class="flex  justify-center w-full mt-10 mx-auto">
+          <section style="width: 650px;" class="flex  justify-center w-full mt-10 mx-auto">
               <div class="block">
-                  <img  src="./image/14.png" alt="">
+                  <img class="" src="./image/14.jpg" alt="">
               </div>
-              <div  class="block mt-10">
+              <div style="padding-top: 40px;" class="block">
                   <h2 class="text-rose-900 text-xl font-normal font-serif mt-10">WARM UNDERTONE</h2>
-                  <p class="  text-rose-900 max-w-xl font-medium font-serif lg:flex text-base mt-5 ">People with a warm undertone have veins that tend to be green or olive in color and if overheated the skin immediately darkens but is not red.
+                  <p class=" text-rose-900 max-w-xl font-medium font-serif lg:flex text-base mt-5">People with a warm undertone have veins that tend to be green or olive in color and if overheated the skin immediately darkens but is not red.
                   </P>
                   <P class=" text-rose-400 max-w-xl font-serif lg:flex font-light mt-5">Orang dengan warm undertone memiliki urat nadi cenderung berwarna hijau atau olive dan jika kepanasan kulit langsung gelap namun tidak merah.</p>
               </div>
