@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./styleauth.css">
     <title>Shadesense</title>
 </head>
 <body >
@@ -12,7 +12,7 @@
           <div class="relative flex h-16 items-center justify-between">
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
               <div class=" -ml-7 flex flex-shrink-0 items-center">
-                <img class=" h-16 w-auto" src="./image/s.png" alt="Your Company">
+                <img class=" h-16 w-auto" src="./img/s.png" alt="Your Company">
               </div>
             </div>
             <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
@@ -21,7 +21,7 @@
                   <button type="button" class="relative flex rounded-full bg-rose-100 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                     <span class="absolute -inset-1.5"></span>
                     <span class="sr-only">Open user menu</span>
-                    <img class="h-10 w-10 rounded-full" src="./image/v.PNG" alt="">
+                    <img class="h-10 w-10 rounded-full" src="./img/v.PNG" alt="">
                   </button>
                 </div>
                 
@@ -34,7 +34,7 @@
       <!-- section 1 -->
         <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
           <div class=" block ">
-            <img style="width: 340px;" class="mt-5 " src="./image/shade.jpg" alt="">
+            <img style="width: 340px;" class="mt-5 " src="./img/shade.jpg" alt="">
           </div>
         </section>
         <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
@@ -66,7 +66,7 @@
               <input  class=" bg-gray-300  p-5 h-10 rounded-full w-full py-2 pl-9 pr-3 sm:text-sm focus:outline-none " style="padding-left: 60px;" type="password" name="password"  id="password" placeholder="Password...">
             </label>
             <div class="relative block mt-5">
-              <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">LOGIN</button>
+              <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">LOGIN</button>
             </div>
               
             </form>

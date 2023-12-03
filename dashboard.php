@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./style.css">
     <title>Shadesense</title>
 </head>
 <body>
@@ -13,7 +13,7 @@
             
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
               <div class=" -ml-7 flex flex-shrink-0 items-center">
-                <img class=" h-16 w-auto" src="./image/s.png" alt="Your Company">
+                <img class=" h-16 w-auto" src="./public/image/s.png" alt="Your Company">
               </div>
             </div>
             <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
@@ -22,7 +22,7 @@
                   <button type="button" class="relative flex rounded-full bg-rose-100 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                     <span class="absolute -inset-1.5"></span>
                     <span class="sr-only">Open user menu</span>
-                    <img class="h-10 w-10 rounded-full" src="./image/v.PNG" alt="">
+                    <img class="h-10 w-10 rounded-full" src="./public/image/v.PNG" alt="">
                   </button>
                 </div>
                 
@@ -42,12 +42,12 @@
             </div>
           </div>
     </section>
-    <section class="flex justify-center w-full max-h-screen  mx-auto">
+    <section class="flex justify-center w-full max-h-screen   mx-auto">
         
-         <div class="block text-amber-800 font-bold ">
+         <div class="block text-amber-800 font-bold  ">
             <div class="text-lg text-center">WELCOME TO </div>
             <div class="text-4xl text-center">SHADESENSE</div>
-            <img src="./image/zepetto.png" class="mt-5 max-h-52" alt=""> 
+            <img src="./public/image/zepetto.png" class=" w-80 h-auto" alt=""> 
         </div> 
             
     </section>
