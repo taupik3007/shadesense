@@ -31,23 +31,49 @@
       </div>
     </div>
   </nav>
-<!-- form login -->
-<section class="flex justify-center w-full max-h-screen  mx-auto">
+<!-- section 1 -->
+<section class="flex flex-row justify-between">
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- left arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 left-0 ">
+      <a href="./start12neutral.php">
+      <img  class="w-10 h-auto" src="./image/left.png" alt="">
+      </a>
+    </div>
+  </div>
+</div>
+<div class="w-full h-full">
+<section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class=" block ">
-    <img style="width: 340px; height: auto;" class="" src="./image/9.png" alt="">
+    <img  class="mt-5 w-80" src="./image/13.jpg" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">MAKE YOUR DAY CONFIDENT WITH 
-      YOUR PERFECT COLOR</p>
+    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">LETS DISCOVER YOUR PERSONAL COLOR</p>
 </div>
 </section>
 <section class="mt-5 flex justify-center w-full">
-  <div class="block mt-2">
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">NEXT</button>
+  <div class=" block">
+    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">START</button>
   </div>
 </section>
+</div>
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- right arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 right-0 ">
+      <!-- <a href="./start13olive.php">
+      <img  class="w-10 h-auto object-none object-right" src="./image/right.png" alt="">
+      </a> -->
+    </div>
+    
+  </div>
+</div>
+</section>
+
+
 
 </body>
 </html>

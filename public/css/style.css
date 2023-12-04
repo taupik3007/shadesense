@@ -546,10 +546,6 @@ video {
   border-width: 0;
 }
 
-.visible {
-  visibility: visible;
-}
-
 .absolute {
   position: absolute;
 }
@@ -579,10 +575,6 @@ video {
   right: 0px;
 }
 
-.top-0 {
-  top: 0px;
-}
-
 .m-auto {
   margin: auto;
 }
@@ -606,10 +598,6 @@ video {
 
 .mb-10 {
   margin-bottom: 2.5rem;
-}
-
-.mb-5 {
-  margin-bottom: 1.25rem;
 }
 
 .ml-3 {
@@ -648,12 +636,20 @@ video {
   height: 4rem;
 }
 
+.h-72 {
+  height: 18rem;
+}
+
 .h-auto {
   height: auto;
 }
 
-.max-h-52 {
-  max-height: 13rem;
+.h-full {
+  height: 100%;
+}
+
+.h-80 {
+  height: 20rem;
 }
 
 .max-h-screen {
@@ -764,16 +760,6 @@ video {
   border-width: 1px;
 }
 
-.bg-gray-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
-}
-
-.bg-red-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(252 165 165 / var(--tw-bg-opacity));
-}
-
 .bg-rose-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(255 228 230 / var(--tw-bg-opacity));
@@ -789,9 +775,14 @@ video {
   background-color: rgb(253 164 175 / var(--tw-bg-opacity));
 }
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+.object-none {
+  -o-object-fit: none;
+     object-fit: none;
+}
+
+.object-right {
+  -o-object-position: right;
+     object-position: right;
 }
 
 .p-5 {
@@ -808,23 +799,9 @@ video {
   padding-right: 1rem;
 }
 
-.px-9 {
-  padding-left: 2.25rem;
-  padding-right: 2.25rem;
-}
-
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-}
-
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
-
-.pl-2 {
-  padding-left: 0.5rem;
 }
 
 .pl-9 {
@@ -851,11 +828,6 @@ video {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -876,11 +848,6 @@ video {
   line-height: 1.75rem;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -895,10 +862,6 @@ video {
 
 .font-normal {
   font-weight: 400;
-}
-
-.font-semibold {
-  font-weight: 600;
 }
 
 .text-amber-800 {
@@ -973,10 +936,6 @@ video {
 
   .sm\:pr-0 {
     padding-right: 0px;
-  }
-
-  .sm\:text-left {
-    text-align: left;
   }
 
   .sm\:text-sm {

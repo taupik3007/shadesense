@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <title>Shadesense</title>
 </head>
-<body >
+<body>
   <nav class="bg-rose-100 ">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
@@ -31,20 +31,47 @@
       </div>
     </div>
   </nav>
+
 <!-- section 1 -->
-<section class="flex justify-center w-full max-h-screen  mx-auto">
+<section class="flex justify-center w-full max-h-screen mt-10 mx-auto">
+    <div class="block">
+      <h1 class="text-amber-800 max-w-xs w-64 font-bold text-center font-serif text-lg">HERE’S THE RESULT!</h1>
+  </div>
+  </section>
+<section class="flex justify-center w-full max-h-screen mx-auto">
   <div class=" block ">
-    <img style="width: 340px; height: auto;" class="" src="./image/12.png" alt="">
+    <img  class="mt-5 w-72 h-auto" src="./image/27.jpg" alt="">
   </div>
 </section>
-<section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
+<section class="flex justify-center w-full mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">LETS DISCOVER YOUR PERSONAL COLOR</p>
+    <p class="text-amber-800 w-72 text-center font-serif text-lg">Your Skintone is a Warm and here you can check the color! </p>
 </div>
 </section>
-<section class="mt-5 flex justify-center w-full">
-  <div class=" block">
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">START</button>
+<section class="flex justify-center w-full mt-10 mx-auto">
+    <div class="block">
+      <p class="text-amber-800 w-72 text-center font-bold font-serif text-lg">CLICK ONE OF THE COLOR</p>
+  </div>
+</section>
+<section class="grid w-full mt-10 mx-auto justify-items-center" >
+    <div class="grid grid-cols-2 gap-16 ">
+        <div class="  w-56">
+            <img  class="" src="./image/pink.png" alt="">
+          </div>
+          <div class=" w-56 ">
+            <img  class="" src="./image/cream.png" alt="">
+          </div>
+          <div class="  w-56">
+             <img  class="" src="./image/tosca.png" alt="">
+          </div>
+          <div class="  w-56">
+             <img  class="" src="./image/grey.png" alt="">
+          </div>
+    </div>    
+</section>
+<section class="mt-10 mb-10 flex justify-center w-full">
+  <div class=" block">  
+    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">CLICK HERE</button>
   </div>
 </section>
 

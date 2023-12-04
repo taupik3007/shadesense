@@ -9,8 +9,7 @@
 <body >
   <nav class="bg-rose-100 ">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-      <div class="relative flex h-16 items-center justify-between">
-        
+      <div class="relative flex h-16 items-center justify-between">        
         <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
           <div class=" -ml-7 flex flex-shrink-0 items-center">
             <img class=" h-16 w-auto" src="./image/s.png" alt="Your Company">
@@ -31,37 +30,47 @@
       </div>
     </div>
   </nav>
+  
 <!-- section 1 -->
 <section class="flex justify-center w-full max-h-screen mt-10 mx-auto">
     <div class="block">
       <h1 class="text-amber-800 max-w-xs w-64 font-bold text-center font-serif text-lg">HERE’S THE RESULT!</h1>
   </div>
   </section>
-<section class="flex justify-center w-full  max-h-screen mx-auto">
+<section class="flex justify-center w-full max-h-screen mx-auto">
   <div class=" block ">
-    <img  class=" w-64 h-auto" src="./image/24.jpg" alt="">
+    <img  class="mt-5 w-72 h-auto" src="./image/33.jpg" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 w-96 text-center font-serif text-base">Wow! You look beautiful in this purple color! 
-      With this, you'll appear more confident!</p>
+    <p class="text-amber-800 w-72 text-center font-serif text-lg">Your Skintone is a Neutral and here you can check the color! </p>
 </div>
 </section>
-
-<section class="flex w-full mt-5 mx-auto justify-center" >
-    <div class="flex w-2/4 flex-row h-16 justify-center  gap-3">
-        <div class=" bg-rose-200  w-auto">
-            <p class="text-amber-800 w-full text-justify font-serif text-base px-4 py-2">You can find clothes in matching colors with the picture! Click the button below, and you will be directed to the <a href="">UNIQLO store</a>.</p>
+<section class="flex justify-center w-full mt-10 mx-auto">
+    <div class="block">
+      <p class="text-amber-800 w-72 text-center font-bold font-serif text-lg">CLICK ONE OF THE COLOR</p>
+  </div>
+</section>
+<section class="grid w-full mt-10 mx-auto justify-items-center" >
+    <div class="grid grid-cols-2 gap-16 ">
+          <div class="  w-56">
+            <img  class="" src="./image/grey2.png" alt="">
           </div>
-          <a href="https://www.uniqlo.com/id/id/?gad_source=1&gclid=Cj0KCQiAyKurBhD5ARIsALamXaEZLLAJ19eVEdg4P0V_o3H83kh_auNr9H6OR8lpnE6Wuv1VS-jVf1UaAnYUEALw_wcB"><button class="bg-rose-300 text-white p-5 h-16 w-40 border py-2  sm:text-sm" type="submit">CLICK HERE</button></a>
+          <div class=" w-56 ">
+            <img  class="" src="./image/grey3.png" alt="">
+          </div>
+          <div class="  w-56">
+            <img  class="" src="./image/white.png" alt="">
+          </div>
+          <div class="  w-56">
+            <img  class="" src="./image/cream2.png" alt="">
           </div>
     </div>
-        
 </section>
-<section class="mt-5 mb-10 flex justify-center w-full">
+<section class="mt-10 mb-10 flex justify-center w-full">
   <div class=" block">  
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 sm:text-sm" type="submit">BACK</button>
+    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">CLICK HERE</button>
   </div>
 </section>
 

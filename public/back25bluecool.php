@@ -52,7 +52,7 @@
 <section class="flex w-full mt-5 mx-auto justify-center" >
     <div class="flex w-2/4 flex-row h-16 justify-center  gap-3">
         <div class=" bg-rose-200  w-auto">
-            <p class="text-amber-800 w-full text-justify font-serif text-base px-4 py-2">You can find clothes in matching colors with the picture! Click the button below, and you will be directed to the <a href="">UNIQLO store</a>.</p>
+          <p class="text-amber-800 w-full text-justify font-serif text-base px-4 py-2">You can find clothes in matching colors with the picture! Click the button below, and you will be directed to the <a href="">UNIQLO store</a>.</p>
           </div>
           <div class=" w-56  ">
           <a href="https://www.uniqlo.com/id/id/?gad_source=1&gclid=Cj0KCQiAyKurBhD5ARIsALamXaEZLLAJ19eVEdg4P0V_o3H83kh_auNr9H6OR8lpnE6Wuv1VS-jVf1UaAnYUEALw_wcB"><button class="bg-rose-300 text-white p-5 h-16 w-40 border py-2  sm:text-sm" type="submit">CLICK HERE</button></a>

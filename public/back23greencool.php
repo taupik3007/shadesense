@@ -39,13 +39,12 @@
   </section>
 <section class="flex justify-center w-full max-h-screen mx-auto">
   <div class=" block ">
-    <img  class=" w-64 h-auto" src="./image/23.jpg" alt="">
+    <img  class="w-64 h-auto" src="./image/23.jpg" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 w-96 text-center font-serif text-base">Wow! You look beautiful in this green color! 
-      With this, you'll appear more confident!</p>
+    <p class="text-amber-800 w-96 text-center font-serif text-base">Wow! You look beautiful in this green color! With this, you'll appear more confident!</p>
 </div>
 </section>
 

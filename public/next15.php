@@ -35,14 +35,13 @@
         <section class="flex flex-col justify-center ">
           <section style="width: 650px;" class="flex  justify-center w-full mt-10 mx-auto">
               <div class="block">
-                  <img class="" src="./image/7.jpg" alt="">
+                  <img class="" src="./image/15.jpg" alt="">
               </div>
               <div style="padding-top: 40px;" class="block">
-                  <h2 class="text-rose-900 text-xl font-normal font-serif mt-10">COOL UNDERTONE</h2>
-                  <p class=" text-rose-900 max-w-xl font-medium font-serif lg:flex text-base mt-5">People with a cool undertone have blue or purple veins. The skin looks pink or beige skintone and if overheated, the skin usually turns red and dark while the underarms are whiter.
+                  <h2 class="text-rose-900 text-xl font-normal font-serif mt-10">NEUTRAL UNDERTONE</h2>
+                  <p class=" text-rose-900 max-w-xl font-medium font-serif lg:flex text-base mt-5">People with a neutral undertone have green and blue veins. The skin does not tend to be pink, red, or yellow.
                   </P>
-                  <P class=" text-rose-400 max-w-xl font-serif lg:flex font-light mt-5">
-                    Orang dengan cool undertone memiliki urat nadi berwarna biru atau ungu. Cirinya kulit terlihat pink atau beige skintone dan jika kepanasan biasanya kulit memerah dan gelap sedangkan pada bagian bawah lengan lebih putih.</p>
+                  <P class=" text-rose-400 max-w-xl font-serif lg:flex font-light mt-5">Orang dengan neutral undertone memiliki urat nadi berwarna hijau dan biru. Cirinya kulit tidak cenderung pink, merah, ataupun kuning.</p>
               </div>
           </section>
           <section class="flex justify-center w-full max-h-screen  mx-auto mt-5">

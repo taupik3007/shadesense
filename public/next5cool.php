@@ -9,8 +9,7 @@
 <body >
   <nav class="bg-rose-100 ">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-      <div class="relative flex h-16 items-center justify-between">
-        
+      <div class="relative flex h-16 items-center justify-between">        
         <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
           <div class=" -ml-7 flex flex-shrink-0 items-center">
             <img class=" h-16 w-auto" src="./image/s.png" alt="Your Company">
@@ -20,34 +19,56 @@
           <div class="relative ml-3">
             <div class="m-auto">
               <button type="button" class="relative flex rounded-full bg-rose-100 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
-                <span class="absolute -inset-1.5"></span>
-                <span class="sr-only">Open user menu</span>
-                <img class="h-10 w-10 rounded-full" src="./image/v.PNG" alt="">
+              <span class="absolute -inset-1.5"></span>
+              <span class="sr-only">Open user menu</span>
+              <img class="h-10 w-10 rounded-full" src="./image/v.PNG" alt="">
               </button>
-            </div>
-            
+            </div>     
           </div>
         </div>
       </div>
     </div>
   </nav>
-<!-- form login -->
+<!-- section1 -->
+<section class="flex flex-row justify-between">
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- left arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 left-0 ">
+      <!-- <a href="./start6cool.php">
+      <img  class="w-10 h-auto" src="./image/left.png" alt="">
+      </a> -->
+    </div>
+  </div>
+</div>
+<div class="w-full h-full">
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class=" block ">
-    <img style="width: 340px; height: auto;" class="mt-5" src="./image/5.png" alt="">
+    <img c class=" w-80 h-auto" src="./image/5.png" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">MAKE YOUR DAY CONFIDENT WITH 
-      YOUR PERFECT COLOR</p>
-</div>
+    <p class="text-amber-800 max-w-xs w-80 text-center font-serif text-lg">MAKE YOUR DAY CONFIDENT WITH YOUR PERFECT COLOR</p>
+  </div>
 </section>
 <section class="mt-2 flex justify-center w-full">
   <div class="relative block mt-5">
   <a href="start6cool.php"><button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">NEXT</button></a>
   </div>
 </section>
-
+</div>
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- right arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 right-0 ">
+      <a href="./next8warm.php">
+      <img  class="w-10 h-auto object-none object-right" src="./image/right.png" alt="">
+      </a>
+    </div>
+    
+  </div>
+</div>
+</section>
 </body>
 </html>

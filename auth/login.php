@@ -24,7 +24,6 @@
                     <img class="h-10 w-10 rounded-full" src="./img/v.PNG" alt="">
                   </button>
                 </div>
-                
               </div>
             </div>
           </div>
@@ -66,7 +65,7 @@
               <input  class=" bg-gray-300  p-5 h-10 rounded-full w-full py-2 pl-9 pr-3 sm:text-sm focus:outline-none " style="padding-left: 60px;" type="password" name="password"  id="password" placeholder="Password...">
             </label>
             <div class="relative block mt-5">
-              <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">LOGIN</button>
+              <a href="./start6cool.php"><button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">LOGIN</button></a>
             </div>
               
             </form>

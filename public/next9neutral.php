@@ -32,14 +32,26 @@
     </div>
   </nav>
 <!-- form login -->
-<section class="flex justify-center w-full max-h-screen  mx-auto">
+<section class=" flex flex-row justify-between">
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- left arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 left-0 ">
+      <a href="./next8warm.php">
+      <img  class="w-10 h-auto" src="./image/left.png" alt="">
+      </a>
+    </div>
+  </div>
+</div>
+  <div class="w-full h-full">
+  <section class="flex justify-center w-full max-h-screen mt-5  mx-auto">
   <div class=" block ">
-    <img style="width: 340px; height: auto;" class="" src="./image/10.jpg" alt="">
+    <img  class=" w-72 h-auto mt-5" src="./image/9.png" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">MAKE YOUR DAY CONFIDENT WITH 
+    <p class="text-amber-800 max-w-xs w-80 text-center font-serif text-lg">MAKE YOUR DAY CONFIDENT WITH 
       YOUR PERFECT COLOR</p>
 </div>
 </section>
@@ -48,6 +60,20 @@
     <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">NEXT</button>
   </div>
 </section>
+  </div>
+  <div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- right arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 right-0 ">
+      <a href="./next10olive.php">
+      <img  class="w-10 h-auto object-none object-right" src="./image/right.png" alt="">
+      </a>
+    </div>
+    
+  </div>
+</div>
+</section>
+
 
 </body>
 </html>

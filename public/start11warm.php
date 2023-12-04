@@ -32,47 +32,45 @@
     </div>
   </nav>
 <!-- section 1 -->
-<section class="flex justify-center w-full max-h-screen mt-10 mx-auto">
-    <div class="block">
-      <h1 class="text-amber-800 max-w-xs w-64 font-bold text-center font-serif text-lg">HERE’S THE RESULT!</h1>
+<section class="flex flex-row justify-between">
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- left arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 left-0 ">
+      <a href="./start6cool.php">
+      <img  class="w-10 h-auto" src="./image/left.png" alt="">
+      </a>
+    </div>
   </div>
-  </section>
-<section class="flex justify-center w-full max-h-screen mx-auto">
+</div>
+<div class="h-full w-full ">
+<section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class=" block ">
-    <img  class="mt-5 w-72 h-auto" src="./image/33.jpg" alt="">
+    <img class="mt-5 h-72 w-auto" src="./image/11.png" alt="">
   </div>
 </section>
-<section class="flex justify-center w-full mt-5 mx-auto">
+<section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 w-72 text-center font-serif text-lg">Your Skintone is a Neutral and here you can check the color! </p>
+    <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">LETS DISCOVER YOUR PERSONAL COLOR</p>
 </div>
 </section>
-<section class="flex justify-center w-full mt-10 mx-auto">
-    <div class="block">
-      <p class="text-amber-800 w-72 text-center font-bold font-serif text-lg">CLICK ONE OF THE COLOR</p>
+<section class="mt-5 flex justify-center w-full">
+  <div class=" block">
+    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">START</button>
   </div>
 </section>
-<section class="grid w-full mt-10 mx-auto justify-items-center" >
-    <div class="grid grid-cols-2 gap-16 ">
-        <div class="  w-56">
-            <img  class="" src="./image/grey2.png" alt="">
-          </div>
-          <div class=" w-56 ">
-            <img  class="" src="./image/grey3.png " alt="">
-          </div>
-          <div class="  w-56">
-             <img  class="" src="./image/white.png" alt="">
-          </div>
-          <div class="  w-56">
-             <img  class="" src="./image/cream2.png" alt="">
-          </div>
+</div>
+<div class="w-full justify-center max-h-screen flex flex-col">
+  <!-- right arrow -->
+  <div class="relative w-full h-full">
+    <div class="absolute inset-y-0 right-0 ">
+      <a href="./start12neutral.php">
+      <img  class="w-10 h-auto object-none object-right" src="./image/right.png" alt="">
+      </a>
     </div>
-        
-</section>
-<section class="mt-10 mb-10 flex justify-center w-full">
-  <div class=" block">  
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">CLICK HERE</button>
+    
   </div>
+</div>
 </section>
 
 </body>

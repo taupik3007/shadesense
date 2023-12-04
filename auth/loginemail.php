@@ -7,7 +7,7 @@
     <title>Shadesense</title>
 </head>
 <body">
-<nav class="bg-rose-100 ">
+<nav class="bg-rose-100">
   <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
     <div class="relative flex h-16 items-center justify-between">
       
@@ -44,8 +44,8 @@
             <div class="block">
               <p class="text-amber-800 max-w-xs w-64 text-center font-serif text-lg">Find your color based on your undertone</p>
           </div>
-          <!-- Login Button With Email -->
           </section>
+          <!-- Login Button With Email -->
           <section class="mt-5 flex justify-center w-full">
             <div class="block">
               <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">LOGIN WITH EMAIL</button>

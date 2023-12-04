@@ -7,48 +7,47 @@
     <title>Shadesense</title>
 </head>
 <body>
-    <nav class="bg-rose-100">
-        <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-          <div class="relative flex h-16 items-center justify-between">
-            
-            <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
-              <div class=" -ml-7 flex flex-shrink-0 items-center">
-                <img class=" h-16 w-auto" src="./public/image/s.png" alt="Your Company">
-              </div>
-            </div>
-            <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-              <div class="relative ml-3">
-                <div class="m-auto">
-                  <button type="button" class="relative flex rounded-full bg-rose-100 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
-                    <span class="absolute -inset-1.5"></span>
-                    <span class="sr-only">Open user menu</span>
-                    <img class="h-10 w-10 rounded-full" src="./public/image/v.PNG" alt="">
-                  </button>
-                </div>
-                
-              </div>
-            </div>
+<nav class="bg-rose-100 ">
+    <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+      <div class="relative flex h-16 items-center justify-between">
+        
+        <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+          <div class=" -ml-7 flex flex-shrink-0 items-center">
+            <img class=" h-16 w-auto" src="./public/image/s.png" alt="Your Company">
           </div>
         </div>
-      </nav>
+        <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+          <div class="relative ml-3">
+            <div class="m-auto">
+              <button type="button" class="relative flex rounded-full bg-rose-100 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
+                <span class="absolute -inset-1.5"></span>
+                <span class="sr-only">Open user menu</span>
+                <img class="h-10 w-10 rounded-full" src="./public/image/v.PNG" alt="">
+              </button>
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
 
       <!-- Dashboard -->
      
     <section class="w-full ">
         <div class="relative h-16 w-full visible     ">
             <div class="absolute top-0 right-0  h-16 w-56  bg-white ">
-                <div class="text-amber-800 font-serif text-xs ">team ranger 8</div>
-                <div class="text-amber-800 font-serif font-semibold text-sm">pionir Tekno Nusantara</div>
+                <div class="text-amber-800 font-serif text-sm ">Team Ranger 8</div>
+                <div class="text-amber-800 font-serif font-bold text-xs">Pionir Tekno Nusantara</div>
             </div>
           </div>
     </section>
     <section class="flex justify-center w-full max-h-screen   mx-auto">
         
-         <div class="block text-amber-800 font-bold  ">
-            <div class="text-lg text-center">WELCOME TO </div>
-            <div class="text-4xl text-center">SHADESENSE</div>
+          <div class="block text-amber-800 font-bold ">
+            <div class="text-md text-center">WELCOME TO </div>
+            <div class="text-xl text-center">SHADESENSE</div>
             <img src="./public/image/zepetto.png" class=" w-80 h-auto" alt=""> 
-        </div> 
+          </div> 
             
     </section>
     <section class="flex justify-center w-full  max-h-screen mt-5 mx-auto ">
@@ -57,8 +56,7 @@
         </div>
     </section>
     <section class="mt-5 flex justify-center w-full ">
-        <a href="" class="font-serif text-white bg-red-300 px-9 py-3 text-xs rounded-full">CHECK YOUR UNDERTONE HERE</a>   
-
+        <a href="./public/next5cool.php"><button class="bg-rose-300 text-white h-10 text-xs rounded-full w-72 border px-9 pr-3 " type="submit">CHECK YOUR UNDERTONE HERE</button></a>   
     </section>
      <section class="mt-5 lg:flex justify-center w-full mb-5 sm:text-left flex ">
         <div class="font-serif text-amber-800 text-xs">CHELIKA PATRICIA HANDRAPUTRI ✦</div>
