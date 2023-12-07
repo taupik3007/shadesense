@@ -39,39 +39,30 @@
   </section>
 <section class="flex justify-center w-full max-h-screen mx-auto">
   <div class=" block ">
-    <img  class="mt-5 w-72 h-auto" src="./image/38.png" alt="">
+    <img  class=" w-80 h-auto" src="./image/30.jpg" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 w-72 text-center font-serif text-lg">Your Skintone is a Olive and here you can check the color! </p>
+    <p class="text-amber-800 w-96 text-center font-serif text-base">Wow! You look beautiful in this yale blue color! 
+      With this, you'll appear more confident!</p>
 </div>
 </section>
-<section class="flex justify-center w-full mt-10 mx-auto">
-    <div class="block">
-      <p class="text-amber-800 w-72 text-center font-bold font-serif text-lg">CLICK ONE OF THE COLOR</p>
-  </div>
-</section>
-<section class="grid w-full mt-10 mx-auto justify-items-center" >
-    <div class="grid grid-cols-2 gap-16 ">
-        <div class="  w-56">
-            <img  class="" src="./image/navy.png" alt="">
+
+<section class="flex w-full mt-5 mx-auto justify-center" >
+    <div class="flex w-2/4 flex-row h-16 justify-center  gap-3">
+        <div class=" bg-rose-200  w-auto">
+            <p class="text-amber-800 w-full text-justify font-serif text-base px-4 py-2">You can find clothes in matching colors with the picture! Click the button below, and you will be directed to the <a href="">UNIQLO store</a>.</p>
           </div>
-          <div class=" w-56 ">
-            <img  class="" src="./image/navymd.png" alt="">
-          </div>
-          <div class="  w-56">
-             <img  class="" src="./image/greendark.png" alt="">
-          </div>
-          <div class="  w-56">
-             <img  class="" src="./image/greensmb.png" alt="">
+          <div class=" w-56  ">
+            <button class="bg-rose-300 text-white p-5 h-16 w-40 border py-2  sm:text-sm" type="submit">CLICK HERE</button>
           </div>
     </div>
         
 </section>
-<section class="mt-10 mb-10 flex justify-center w-full">
+<section class="mt-5 mb-10 flex justify-center w-full">
   <div class=" block">  
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">CLICK HERE</button>
+  <a href="./clickhere27warm.php"><button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 sm:text-sm" type="submit">BACK</button></a>
   </div>
 </section>
 

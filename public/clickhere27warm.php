@@ -56,16 +56,20 @@
 <section class="grid w-full mt-10 mx-auto justify-items-center" >
     <div class="grid grid-cols-2 gap-16 ">
         <div class="  w-56">
-            <img  class="" src="./image/pink.png" alt="">
+          <input type="image" class="w-56" src="./image/salmon.png">
+            <!-- <a href="./back28salmon.php"><img  class="" src="./image/salmon.png" alt=""></a> -->
           </div>
           <div class=" w-56 ">
-            <img  class="" src="./image/cream.png" alt="">
+          <input type="image" class="w-56 hover:bg-black" src="./image/orange.png">
+          <!-- <a href="./back29orange.php"><img  class="" src="./image/orange.png" alt=""></a> -->
           </div>
           <div class="  w-56">
-             <img  class="" src="./image/tosca.png" alt="">
+          <input type="image" class="w-56 hover:bg-black" src="./image/yaleblue.png">
+          <!-- <a href="./back30yaleblue.php"><img  class="" src="./image/yaleblue.png" alt=""></a> -->
           </div>
           <div class="  w-56">
-             <img  class="" src="./image/grey.png" alt="">
+          <input type="image" class="w-56 hover:bg-black" src="./image/yellow.png">
+          <!-- <a href="./back31yellow.php"><img  class="" src="./image/yellow.png" alt=""></a> -->
           </div>
     </div>    
 </section>

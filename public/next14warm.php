@@ -51,7 +51,10 @@
           </section>
           <section class=" flex justify-center w-full mt-5">
             <div class=" block ">
-              <button class="bg-rose-300 text-white h-10 rounded-full w-72 border py-2 pl-9 pr-3 sm:text-sm" type="submit">NEXT</button>
+              <a href="./clickhere27warm.php">
+              <button class="bg-rose-300 text-white h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">NEXT</button>
+              </a>
+              
             </div>
           </section>
           </section>  

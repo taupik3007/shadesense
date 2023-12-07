@@ -10,7 +10,6 @@
   <nav class="bg-rose-100 ">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
-        
         <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
           <div class=" -ml-7 flex flex-shrink-0 items-center">
             <img class=" h-16 w-auto" src="./image/s.png" alt="Your Company">
@@ -25,7 +24,6 @@
                 <img class="h-10 w-10 rounded-full" src="./image/v.PNG" alt="">
               </button>
             </div>
-            
           </div>
         </div>
       </div>
@@ -46,7 +44,7 @@
 <div class="w-full h-full">
 <section class="flex justify-center w-full max-h-screen mx-auto">
   <div class=" block ">
-    <img  class="w-80 h-auto mt-5" src="./image/8.png" alt="">
+    <img  class="w-80 h-auto " src="./image/8.png" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
@@ -57,7 +55,9 @@
 </section>
 <section class="mt-5 flex justify-center w-full">
   <div class=" block mt-2">
+    <a href="./start11warm.php">
     <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 pr-3 sm:text-sm" type="submit">NEXT</button>
+    </a>
   </div>
 </section>
 </div>

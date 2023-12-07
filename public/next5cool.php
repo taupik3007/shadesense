@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <title>Shadesense</title>
 </head>
-<body >
+<body>
   <nav class="bg-rose-100 ">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">        
@@ -31,20 +31,24 @@
   </nav>
 <!-- section1 -->
 <section class="flex flex-row justify-between">
+<!-- left arrow -->
 <div class="w-full justify-center max-h-screen flex flex-col">
-  <!-- left arrow -->
-  <div class="relative w-full h-full">
-    <div class="absolute inset-y-0 left-0 ">
-      <!-- <a href="./start6cool.php">
+  <div class="relative w-full h-full grid grid-flow-row">
+    <div class="h-40 w-auto"></div>
+    <div class="h-40 w-auto justify-center">
+    <a href="./start6cool.php">
       <img  class="w-10 h-auto" src="./image/left.png" alt="">
-      </a> -->
+      </a>
     </div>
+    <!-- <div class="absolute inset-y-0 left-0 "> 
+    </div> -->
+    <div class="h-40 w-auto"></div>
   </div>
 </div>
 <div class="w-full h-full">
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class=" block ">
-    <img c class=" w-80 h-auto" src="./image/5.png" alt="">
+    <img  class=" w-80 h-auto" src="./image/5.png" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
@@ -60,13 +64,12 @@
 </div>
 <div class="w-full justify-center max-h-screen flex flex-col">
   <!-- right arrow -->
-  <div class="relative w-full h-full">
-    <div class="absolute inset-y-0 right-0 ">
-      <a href="./next8warm.php">
+  <div class="relative justify-center w-full h-full">
+    <div class="absolute inset-y-0 right-0 w-10">
+      <a  href="./next8warm.php">
       <img  class="w-10 h-auto object-none object-right" src="./image/right.png" alt="">
       </a>
     </div>
-    
   </div>
 </div>
 </section>

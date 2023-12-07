@@ -33,8 +33,8 @@
   </nav>
 <!-- section 1 -->
 <section class="flex flex-row justify-between">
-<div class="w-full justify-center max-h-screen flex flex-col">
   <!-- left arrow -->
+<div class="w-full justify-center max-h-screen flex flex-col">
   <div class="relative w-full h-full">
     <div class="absolute inset-y-0 left-0 ">
       <a href="./start6cool.php">
@@ -46,7 +46,7 @@
 <div class="h-full w-full ">
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
   <div class=" block ">
-    <img class="mt-5 h-72 w-auto" src="./image/11.png" alt="">
+    <img class="mt-5 h-80 w-auto" src="./image/11.png" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full max-h-screen mt-5 mx-auto">
@@ -56,7 +56,10 @@
 </section>
 <section class="mt-5 flex justify-center w-full">
   <div class=" block">
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">START</button>
+  <a href="./next14warm.php">
+  <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2  pr-3 sm:text-sm" type="submit">START</button>
+  </a>  
+  
   </div>
 </section>
 </div>

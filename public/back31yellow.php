@@ -39,13 +39,12 @@
   </section>
 <section class="flex justify-center w-full max-h-screen mx-auto">
   <div class=" block ">
-    <img  class=" w-80 h-auto" src="./image/29.jpg" alt="">
+    <img  class=" w-80 h-auto" src="./image/31.jpg" alt="">
   </div>
 </section>
 <section class="flex justify-center w-full mt-5 mx-auto">
   <div class="block">
-    <p class="text-amber-800 w-96 text-center font-serif text-base">Wow! You look beautiful in this orange color! 
-      With this, you'll appear more confident!</p>
+    <p class="text-amber-800 w-96 text-center font-serif text-base">Wow! You look beautiful in this yellow color! With this, you'll appear more confident!</p>
 </div>
 </section>
 
@@ -62,7 +61,7 @@
 </section>
 <section class="mt-5 mb-10 flex justify-center w-full">
   <div class=" block">  
-    <button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 sm:text-sm" type="submit">BACK</button>
+  <a href="./clickhere27warm.php"><button class="bg-rose-300 text-white p-5 h-10 rounded-full w-72 border py-2 sm:text-sm" type="submit">BACK</button></a>
   </div>
 </section>
 
